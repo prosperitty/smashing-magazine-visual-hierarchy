@@ -17,7 +17,6 @@ body {
     width: 60px;
 
     background-color: rgb(189, 189, 189);
-
 }
 
 .search-bar {
@@ -31,7 +30,6 @@ body {
     width: 90px;
 
     background-color: rgb(148, 148, 148);
-    
 }
 
 .bubble-style {
@@ -151,13 +149,9 @@ h1 {
 }
 
 footer {
-    /* display: flex; */
-    /* justify-content: center; */
     height: 600px;
     width: 100%;
     margin-top: 100px;
-
-    /* background-color: rgb(49, 49, 49); */
 }
 
 .desc {
