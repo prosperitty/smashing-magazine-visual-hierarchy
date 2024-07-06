@@ -6,4 +6,4 @@ Learn about visual hierarchy.
 
 [The Odin Project](https://www.theodinproject.com/courses/html-and-css/lessons/design-teardown)
 
-[Live Demo](https://alex-lvl.github.io/smashing-magazine-visual-hierarchy/)
+[Live Demo](https://prosperitty.github.io/smashing-magazine-visual-hierarchy/)
